@@ -24,14 +24,7 @@ WELL BY DOING REVERSE PSYCHOLOGY, IF WE GET INSULTED THEN RATHER THAN BEING DEPR
 ### Technologies/Components Used
 For Software:
 - HTML,CSS,JAVASCRIPT
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- GPT-4o,Youtube
 
 ### Implementation
 For Software:
@@ -58,37 +51,16 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- RAHUL K R: [Specific contributions]
-- SREEHARI N M: [Specific contributions]
-- PRAVEEN P S: [Specific contributions]
+- RAHUL K R: Idea Pitching, Javascript
+- SREEHARI N M: All rounder contributed and supervised everything
+- PRAVEEN P S: Frontend 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
