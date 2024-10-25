@@ -1,30 +1,29 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# ROASTIVATION 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: IMPACT
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: RAHUL K R - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 2: SREEHARI N M - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 3: PRAVEEN P S- SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
 
 ### Project Description
-[2-3 lines about what your project does]
+OUR PROJECT IS ABOUT GENERATING AUTOMATED INSULTS THAT GETS US MOTIVATED HENCE THE NAME ROASTIVATION.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+WELL THESE DAYS WE CAN'T GET MOTIVATED EVEN WITH POSITIVE FEEDBACK.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+WELL BY DOING REVERSE PSYCHOLOGY, IF WE GET INSULTED THEN RATHER THAN BEING DEPRESSED WE GET MORE MOTIVATED THATS WHY WE CREATED THIS PROJECT ABOUT MOTIVATING INSULTS.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML,CSS,JAVASCRIPT
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -87,9 +86,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- RAHUL K R: [Specific contributions]
+- SREEHARI N M: [Specific contributions]
+- PRAVEEN P S: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
