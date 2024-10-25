@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    color: #2f4f4f;
+}
+
+#insultDisplay {
+    font-size: 1.5em;
+    margin: 20px;
+    padding: 10px;
+    background-color: #faebd7;
+    border-radius: 5px;
+    width: 50%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff4500;
+}
