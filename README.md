@@ -29,7 +29,7 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/rahul5383/Useless-project732.git
 
 # Run
 [commands]
