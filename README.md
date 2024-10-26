@@ -38,6 +38,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
+<img width="1280" alt="screenshot1" src="https://github.com/rahul5383/Useless-project732/blob/main/Screenshot%20(2).png">
+
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
