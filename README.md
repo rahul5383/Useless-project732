@@ -54,10 +54,11 @@ For Software:
 # Diagrams
 <img width="1280" alt="screenshot3" src="https://github.com/rahul5383/Useless-project732/blob/main/Screenshot%202024-10-26%20225558.png">
 Working of Roastivation website in detail.
--Display click to generate insult
--On click generates random insult
--Keep on clicking to generate more insult
--Exit
+
+ - Display click to generate insult
+ - On click generates random insult
+ - Keep on clicking to generate more insult
+ - Exit
 
 ### Project Demo
 # Video
