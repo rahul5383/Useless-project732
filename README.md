@@ -62,8 +62,12 @@ Working of Roastivation website in detail.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+https://github.com/rahul5383/Useless-project732/blob/main/WhatsApp%20Video%202024-10-26%20at%2023.18.18.mp4
+Shows the code and execution of Roastivation website.
+ - Opens liveserver
+ - Display Homepage and insult generate button
+ - On clicking generates random insults
 
 ## Team Contributions
 - RAHUL K R: Idea Pitching, Javascript
