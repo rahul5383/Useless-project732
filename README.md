@@ -35,7 +35,7 @@ git clone https://github.com/rahul5383/Useless-project732.git
 
 
 ### Project Documentation
-For Software:
+For Software: https://github.com/rahul5383/Useless-project732/blob/main/Motivational_Insult_Generator_Documentation.docx
 
 # Screenshots (Add at least 3)
 <img width="1280" alt="screenshot1" src="https://github.com/rahul5383/Useless-project732/blob/main/Screenshot%20(2).png">
